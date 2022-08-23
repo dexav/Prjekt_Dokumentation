@@ -6,7 +6,7 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|       | 0.0.1   |  |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -21,7 +21,7 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |   muss  | Funktionale Anforderungen     | Als User möchte ich eine Zahl eingeben, damit das Programm sagt ob meine Zahl richtig ist. |
-| 2 |   muss    | Qualitätsanforderungen     |  Als Programmierer möchte ich dass das Programm die eine Zahl von 1-50 auswählt.|
+| 2 |   muss    | Funktionale Anfroderungen     |  Als Programmierer möchte ich dass das Programm die eine Zahl von 1-50 auswählt.|
 |3| muss| qualitätsanforderung | Als Programmierer möchte dass das Programm leicht zu verstehen ist, damit der User keine Probleme hat. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
