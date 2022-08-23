@@ -6,7 +6,7 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   |  |
+| 23/08/2022    | 0.0.1   | Ich habe heute gelernt was User-Stories sind.   |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -20,9 +20,9 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |   muss  | Funktionale Anforderungen     | Als User möchte ich eine Zahl eingeben, damit das Programm sagt ob meine Zahl richtig ist. |
+| 1    |   muss  | Funktionale Anforderungen     | Als User möchte ich eine Zahl eingeben, damit das Programm sagt ob meine Zahl zu hoch oder zu niedrig ist, damit ich sehe was für eine Zahl ich eingeben muss  |
 | 2 |   muss    | Funktionale Anfroderungen     |  Als User möchte ich dass das Programm die eine Zahl von 1-50 auswählt, damit es nicht immer das gleiche ist.|
-|3| muss| qualitätsanforderung | Als User möchte dass das Programm leicht zu verstehen ist, damit der User keine Probleme hat. |
+|3| kann| qualitätsanforderung | Als User möchte dass das Programm leicht zu verstehen ist, damit der User keine Probleme hat. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -30,8 +30,9 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |            |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Der User gibt eine Zahl ein          |     Das Programm muss sagen ob die Zahl höher oder kleiner ist als die gesuchte zahl.    |     Das Prgogramm zeigt an ob die eingegeben Zahl höher oder kleiner ist.              |
+| 2.1  | Das Programm wurde gestartet     | Das Programm soll eine Zahl zwischen 1-50 zufällig auswählen        |       Es soll die ausgewählte Zahl speichern und nicht anzeigen.            |
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
