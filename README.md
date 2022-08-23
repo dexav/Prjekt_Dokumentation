@@ -14,14 +14,15 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ich werde ein "Zahlguesser" Spiel programmieren.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |   muss  | Funktionale Anforderungen     | Als User möchte ich eine Zahl eingeben, damit das Programm sagt ob meine Zahl richtig ist. |
+| 2 |   muss    | Qualitätsanforderungen     |  Als Programmierer möchte ich dass das Programm die eine Zahl von 1-50 auswählt.|
+|3| muss| qualitätsanforderung | Als Programmierer möchte dass das Programm leicht zu verstehen ist, damit der User keine Probleme hat. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
