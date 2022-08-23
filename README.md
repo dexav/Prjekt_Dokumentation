@@ -21,8 +21,8 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |   muss  | Funktionale Anforderungen     | Als User möchte ich eine Zahl eingeben, damit das Programm sagt ob meine Zahl richtig ist. |
-| 2 |   muss    | Funktionale Anfroderungen     |  Als Programmierer möchte ich dass das Programm die eine Zahl von 1-50 auswählt.|
-|3| muss| qualitätsanforderung | Als Programmierer möchte dass das Programm leicht zu verstehen ist, damit der User keine Probleme hat. |
+| 2 |   muss    | Funktionale Anfroderungen     |  Als User möchte ich dass das Programm die eine Zahl von 1-50 auswählt, damit es nicht immer das gleiche ist.|
+|3| muss| qualitätsanforderung | Als User möchte dass das Programm leicht zu verstehen ist, damit der User keine Probleme hat. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -30,7 +30,7 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
+| 1.1  |            |         |                   |
 | ...  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
