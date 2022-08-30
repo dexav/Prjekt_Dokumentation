@@ -1,1 +1,27 @@
 
+ Console.Write("Geben Sie hier eine Nummer zwischen 1-100 ein:");
+           
+            int EingabeZahl = Console.Read();
+
+           
+            Random ZufälligZahl = new Random();
+            int N1 = ZufälligZahl.Next(1,100);
+            Console.WriteLine(N1);
+
+
+            if (N1 == EingabeZahl)
+            {
+
+                Console.WriteLine("Glückwunsch Sie haben die richtige Zahl erratne!");
+
+            }
+            else
+            {
+                if (N1 <= EingabeZahl ) ;
+                {
+
+                    Console.WriteLine("Ihre Zahl ist zu hoch")
+                }
+
+               
+            }
