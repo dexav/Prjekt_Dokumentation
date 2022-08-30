@@ -44,7 +44,7 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |       ich    |     Ich werde das Rate SPiel programmieren bzw. versuchen.        |    50           |
+| 1.A  |       |       ich    |     Ich werde das Rate SPiel programmieren bzw. versuchen.        |    50  min         |
 | ...  |       |           |              |               |
 
 Total: 
