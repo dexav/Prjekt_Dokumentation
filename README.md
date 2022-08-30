@@ -7,7 +7,7 @@
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23/08/2022    | 0.0.1   | Ich habe heute gelernt was User-Stories sind.   |
-|       | ...     |                                                              |
+|  30/08/2022     |   0.0.2   | Ich habe heute gelernt wie man eine  Ratespiel programmiert    |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
