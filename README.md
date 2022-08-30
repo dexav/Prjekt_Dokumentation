@@ -7,7 +7,7 @@
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23/08/2022    | 0.0.1   | Ich habe heute gelernt was User-Stories sind.   |
-|  30/08/2022     |   0.0.2   | Ich habe heute gelernt wie man eine  Ratespiel programmiert    |
+|  30/08/2022     |   0.0.2   | Ich habe heute das Spiel so gut wie fertig gemacht. Dazu habe ich noch die Farbe der SChrift geändert.    |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -44,7 +44,7 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
+| 1.A  |       |       ich    |     Ich werde das Rate SPiel programmieren bzw. versuchen.        |    50           |
 | ...  |       |           |              |               |
 
 Total: 
