@@ -8,7 +8,7 @@
 | ----- | ------- | ------------------------------------------------------------ |
 | 23/08/2022    | 0.0.1   | Ich habe heute gelernt was User-Stories sind.   |
 |  30/08/2022     |   0.0.2   | Ich habe heute das Spiel so gut wie fertig gemacht. Dazu habe ich noch die Farbe der SChrift geändert.    |
-|       | 1.0.0   |                                                              |
+| 06/09/2022      | 0.0.3   | Heute habe Ich das Programm fertig gestellt. Es funktioniert alles sehr gut. Am Ende des Programms habe ich einen Code geschrieben wo auswählen kann ob man das Spiel nochmals spielen will oder nicht.       |
 
 ## 1 Informieren
 
@@ -34,7 +34,8 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Das Programm ist gestartet       |     Der User soll eine Zahl zwischen 1-100 eingeben    |   Das Programm soll sagen ob eingegebene Zahl zu klein oder zu hoch ist.         |
 | 2.1  | Das Programm ist gestartet     | Das Programm soll eine Zahl zwischen 1-100 zufällig auswählen        |       Es soll die ausgewählte Zahl speichern und nicht anzeigen.            |
-|3.1| Das Programm ist gestartet |  
+|3.1| Das Programm ist gestartet |  Der User soll  | Es soll alles untereinander geschrieben sein|
+|4.1|Das Programm ist gestartet||
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
