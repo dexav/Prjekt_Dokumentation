@@ -23,6 +23,7 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 | 1    |   muss  | Funktionale Anforderungen     | Als User möchte ich eine Zahl eingeben, damit das Programm sagt ob meine Zahl zu hoch oder zu niedrig ist, damit ich sehe was für eine Zahl ich eingeben muss  |
 | 2 |   muss    | Funktionale Anfroderungen     |  Als User möchte ich dass das Programm die eine Zahl von 1-50 auswählt, damit es nicht immer das gleiche ist.|
 |3| kann| qualitätsanforderung | Als User möchte dass das Programm leicht zu verstehen ist, damit der User keine Probleme hat. |
+|4|kann|qualitätsforderung| Als User möchte ich dass die Schrift in verschiedenen Farben ausgibt|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
