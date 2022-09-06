@@ -22,9 +22,9 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |   muss  | Funktionale Anforderungen     | Als User möchte ich eine Zahl eingeben, damit das Programm sagt ob meine Zahl zu hoch oder zu niedrig ist, damit ich sehe was für eine Zahl ich eingeben muss  |
 | 2 |   muss    | Funktionale Anfroderungen     |  Als User möchte ich dass das Programm die eine Zahl von 1-100 auswählt, damit es nicht immer das gleiche ist.|
-|3| kann| qualitätsanforderung | Als User möchte dass das Programm leicht zu verstehen ist, damit der User keine Probleme hat. |
-|4|kann|qualitätsforderung| Als User möchte ich dass die Schrift in verschiedenen Farben ausgibt|
-|5|kann|funktionale Anforderungen| Als User möchte ich am Ende gefragt werden, ob ich das Spiel nochmals spielen will.|
+|3| kann| qualitätsanforderung | Als User möchte ich dass das Programm leicht zu verstehen ist, damit der User keine Probleme hat. |
+|4|kann|qualitätsforderung| Als User möchte ich dass die Schrift in verschiedenen Farben ausgibt, damit es schöner und übersichtlicher aussieht|
+|5|kann|funktionale Anforderungen| Als User möchte ich am Ende gefragt werden, ob ich das Spiel nochmals spielen will, damit ich es nicht immer ganz neustarten muss.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -33,8 +33,8 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Das Programm ist gestartet       |     Der User soll eine Zahl zwischen 1-100 eingeben    |   Das Programm soll sagen ob eingegebene Zahl zu klein oder zu hoch ist.         |
-| 2.1  | Das Programm wurde gestartet     | Das Programm soll eine Zahl zwischen 1-100 zufällig auswählen        |       Es soll die ausgewählte Zahl speichern und nicht anzeigen.            |
-|3.1| Das Programm ist gestartet | 
+| 2.1  | Das Programm ist gestartet     | Das Programm soll eine Zahl zwischen 1-100 zufällig auswählen        |       Es soll die ausgewählte Zahl speichern und nicht anzeigen.            |
+|3.1| Das Programm ist gestartet |  
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
