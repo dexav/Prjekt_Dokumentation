@@ -9,6 +9,7 @@
 | 23/08/2022    | 0.0.1   | Ich habe heute gelernt was User-Stories sind.   |
 |  30/08/2022     |   0.0.2   | Ich habe heute das Spiel so gut wie fertig gemacht. Dazu habe ich noch die Farbe der SChrift geändert.    |
 | 06/09/2022      | 0.0.3   | Heute habe Ich das Programm fertig gestellt. Es funktioniert alles sehr gut. Am Ende des Programms habe ich einen Code geschrieben wo auswählen kann ob man das Spiel nochmals spielen will oder nicht.       |
+|13/09/2022|1.0.0| Projektabgabe|
 
 ## 1 Informieren
 
