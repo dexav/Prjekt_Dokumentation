@@ -1,3 +1,7 @@
+```c#
+
+
+
 using System;
 
 namespace NumverguesserV2
@@ -78,6 +82,8 @@ namespace NumverguesserV2
                 
             } while (nochmal == "y");
 
+            Console.WriteLine("Danke fürs Spielen");
+
 
 
 
@@ -90,3 +96,6 @@ namespace NumverguesserV2
         }
     }
 }
+
+
+```
