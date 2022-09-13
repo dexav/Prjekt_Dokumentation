@@ -3,15 +3,15 @@ Xavier Nursiwat
 
 ## Einleitung
 
-Im Lernatalier haben einen Auftrag bekommen, einen Zahlenratespiel in C# zu programmieren.
+Im Lernatalier habe ich einen Auftrag bekommen, einen Zahlenratespiel in C# zu programmieren.
 
 ## Was habe ich gelernt?
 
-Während dem programmiern habe ich folgendes gelernt: Ich habe gelernt dass man die Farbe von der Schrift und vom Hintergrund ändern kann. 
+Während dem Programmiern habe ich folgendes gelernt: Ich habe gelernt dass man die Farbe von der Schrift und vom Hintergrund ändern kann. 
 
 ## Beschreibung
 
-Während dem programmieren hat alles mehr oder weniger gut geklappt, aber in der Ausgabe sah alles so langweilig aus. Also habe ich die Codes von meinen Mitschülerns angeschaut und habe bei einem gesehen dass seine Schrift eine andere Farbe hat. Also habe ich im Internet rechechiert wie man das macht und habe es selber in meinem Code asuprobiert. Es ist recht simpel und man kann jede Zeile individuell entscheiden welche Farbe die haben soll. Ich habe noch versucht den Hintergrund zu ändern aber es sah dann nicht so toll aus. Am Ende entschied ich mich, wenn man die falsche Zahl eingegeben hat wird die Schrift rot und wenn man es richtig erraten hat wird die Schrift grün. 
+Während dem Programmieren hat alles mehr oder weniger gut geklappt, aber in der Ausgabe sah alles so langweilig aus. Also habe ich die Codes von meinen Mitschülerns angeschaut und habe bei einem gesehen dass seine Schrift eine andere Farbe hat. Also habe ich im Internet rechechiert wie man das macht und habe es selber in meinem Code asuprobiert. Es ist recht simpel und man kann jede Zeile individuell entscheiden welche Farbe die haben soll. Ich habe noch versucht den Hintergrund zu ändern aber es sah dann nicht so toll aus. Am Ende entschied ich mich, wenn man die falsche Zahl eingegeben hat wird die Schrift rot und wenn man es richtig erraten hat wird die Schrift grün. 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/110892637/189845970-8c21d873-3151-459a-a725-112a25e1a540.gif)
 
 ```C#
@@ -40,7 +40,7 @@ Mit Console.ForegroundColor kann ich bestimmen welche Farbe die Schrift haben so
 
 Text: Es zeigt wie ich es gelernt habe und wie ich es angewendet habe.
 
-Gif: Es zeigt die Ausgabe von meinem Program und die verschiedenen Schriftfarben.
+Gif: Es zeigt die Ausgabe von meinem Programm und die verschiedenen Schriftfarben.
 
 Code: Es zeigt wie ich die Fuktion im Code benutzt habe.
 
