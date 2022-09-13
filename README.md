@@ -1,8 +1,7 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Team 
+Xavier Nursiwat
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -26,7 +25,6 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 |3| kann| qualitätsanforderung | Als User möchte ich dass das Programm leicht zu verstehen ist, damit der User keine Probleme hat. |
 |4|kann|funktionale Anforderungen| Als User möchte ich am Ende gefragt werden, ob ich das Spiel nochmals spielen will, damit ich es nicht immer ganz neustarten muss.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
@@ -37,11 +35,9 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 |3.1| Das Programm ist gestartet |  Der User gibt eine Zahl ein  | Es soll alles untereinander geschrieben sein|
 |4.1|Das Programm ist gestartet|Der User hat die richtige Zahl erraten| Das Program soll den User fragen ob er nochmals spielen will.|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
 ## 2 Planen
 
@@ -53,14 +49,11 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 |4.A||Xavier Nursiwat|Am Ende des Programs werde ich noch schreiben ob man das Spiel nochmals spielen will.|40 min|
 
 Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+160 min
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
 
 ## 4 Realisieren
 
@@ -71,7 +64,7 @@ Total:
 |3.A|06/09/2022| Xavier Nursiwat| 10 min | 15 min |
 |4.A| 06/09/2022| Xavier Nursiwat| 40 min | 50 min|
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
@@ -84,7 +77,7 @@ Total:
 |3.1| 13/09/2022| Das Program zeigt alles untereinander an.| Xavier Nursiwat|
 |4.1|13/09/2022| Nach dem der User fertig gespielt hat, wird gefragt ob man nochmal spielen will| Xavier Nursiwat|
  
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+
 
 ### 5.2 Exploratives Testen
 
@@ -93,8 +86,7 @@ Total:
 | I    | das Programm fragt die Zahl ab.             |croissant         | es teilt mit das die Eingbabe falsch ist.                  |Es teilt mit das die Eingabe falsch ist.                      |
 |II   | das Programm fragt die Zahl ab.             |120         |Das Programm teilt mit das die Zahl zu gross wahr                   |Es teilt mit das die Eingabe falsch ist.                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
