@@ -39,7 +39,9 @@ Mit Console.ForegroundColor kann ich bestimmen welche Farbe die Schrift haben so
 ## Verifikation
 
 Text: Es zeigt wie ich es gelernt habe und wie ich es angewendet habe.
+
 Gif: Es zeigt die Ausgabe von meinem Program und die verschiedenen Schriftfarben.
+
 Code: Es zeigt wie ich die Fuktion im Code benutzt habe.
 
 # Reflektion zum Arbeitsprozess
