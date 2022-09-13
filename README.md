@@ -46,8 +46,10 @@ Ich werde ein "Zahlguesser" Spiel programmieren.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |       ich    |     Ich werde das Rate SPiel programmieren bzw. versuchen.        |    50  min         |
-| ...  |       |           |              |               |
+| 1.A  |       |     Xavier Nursiwat    |   Während des Spiels wird gezeigt ob die eingegeben Zahl zu gross oder zu klein ist.      |    50  min         |
+| 2.A  |       |    Xavier Nursiwat       |    Das Program soll eine zufällige Zahl ziwschen 1-100 auswählen. Ich werde also einen Random Number Generator schreiben         |     60 min          |
+|3.A||Xavier Nursiwat| Ich werde das so prgrammieren das es in der Ausgabe alles schön untereinander steht.|10 min|
+|4.A||Xavier Nursiwat|Am Ende des Programs werde ich noch schreiben ob man das Spiel nochmals spielen will.|40 min|
 
 Total: 
 
@@ -63,8 +65,10 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |   30/08/2022    |   Ich        |     50 min     |     90 min              |
-| ...  |       |           |               |                   |
+| 1.A  |   30/08/2022    |  Xavier Nursiwat        |     50 min     |     90 min              |
+| 2.A  | 30/08/2022      | Xavier Nursiwat          |   60 min            |       70 min            |
+|3.A|06/09/2022| Xavier Nursiwat| 10 min | 15 min |
+|4.A| 06/09/2022| Xavier Nursiwat| 40 min | 50 min|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
@@ -85,8 +89,8 @@ Total:
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| I    | das Programm fragt die Zahl ab.             |croissant         | es teilt mit das die Eingbabe falsch ist.                  |Es teilt mit das die Eingabe falsch ist.                      |
+|II   | das Programm fragt die Zahl ab.             |120         |Das Programm teilt mit das die Zahl zu gross wahr                   |Es teilt mit das die Eingabe falsch ist.                      |
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
