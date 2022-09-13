@@ -74,9 +74,11 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
-
+| 1.1  |    13/09/2022   |  Das Program sagt ob die eingegebene Zahl zu gross oder zu klein ist.     |  Xavier Nursiwat      |
+|2.1  |13/09/2022       | Das Program wählt nach jedem Spiel eine andere Zahl aus.  |Xavier Nursiwat        |
+|3.1| 13/09/2022| Das Program zeigt alles untereinander an.| Xavier Nursiwat|
+|4.1|13/09/2022| Nach dem der User fertig gespielt hat, wird gefragt ob man nochmal spielen will| Xavier Nursiwat|
+ 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ### 5.2 Exploratives Testen
